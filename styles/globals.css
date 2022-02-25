@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Manrope';
+  src: local('Manrope'), url('./fonts/Manrope/variable/Manrope[wght].woff2') format('woff2');
+}
+
 html,
 body {
   padding: 0;
